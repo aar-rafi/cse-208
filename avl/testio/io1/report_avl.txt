@@ -1,0 +1,6 @@
+operation	time(ms)
+insert	0.00488281
+delete	0
+search	0
+trav	0.00585938
+total	0.0107422

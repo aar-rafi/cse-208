@@ -1,0 +1,10 @@
+not found
+(<__main__.AVLNode object at 0x7f235167ab50>)
+(<__main__.AVLNode object at 0x7f235167ab50>)
+(<__main__.AVLNode object at 0x7f235167ab90>)
+(<__main__.AVLNode object at 0x7f235167ab90>)
+(<__main__.AVLNode object at 0x7f235167ab90>)
+(<__main__.AVLNode object at 0x7f235167aed0>)
+(<__main__.AVLNode object at 0x7f235167aed0>)
+(<__main__.AVLNode object at 0x7f235167aed0>)
+(<__main__.AVLNode object at 0x7f235167aed0>)

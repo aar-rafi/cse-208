@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "algorithm": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}

@@ -1,0 +1,6 @@
+operation time(ms)
+Insert:  10.9562
+Delete:  19.804
+Find:  493.189
+Traversal:  0.041568
+Total:  523.991
