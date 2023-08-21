@@ -192,7 +192,7 @@ public:
         cout << hash2(s) << endl;
     }
 
-    void insert(string &word, int option)
+    void insert(string word, int option)
     {
         if (find(word, option) != -1)
             return;
@@ -292,7 +292,7 @@ public:
         cout << hash2(s) << endl;
     }
 
-    void insert(string &word, int option)
+    void insert(string word, int option)
     {
         if (isFilled)
             return;
@@ -409,7 +409,7 @@ public:
     }
     // customHash(k, i) = (Hash1(k) + C1 × i × cpHash(k) + C2 × i^2) % tabelSize
 
-    void insert(string &word, int option)
+    void insert(string word, int option)
     {
         if (find(word, option) != -1)
             return;
